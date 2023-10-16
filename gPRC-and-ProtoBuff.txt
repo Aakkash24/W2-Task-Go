@@ -1,0 +1,12 @@
+REST uses HTTP and uses JSON for communication
+They are not effecient and so google came up with a concept called gRPC
+
+gRPC uses binary stored format which are used in Protocol Buffers
+ProtoBUff are quicker, memory effecient, effecient
+
+gRPC:
+gRPC is an open source framework developed by google which facilitate communication between distributed systems
+by enabling efficient and robost communication
+RPC means that different application can communicate with each other as if they are calling a local function
+
+gRPC are used in cases when we require low latency and high performance like we need in financial transaction
